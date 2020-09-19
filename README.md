@@ -1,39 +1,25 @@
-## Hello! 
+# SUPUN SADEEPA
+
+## About Me
 
 I am an enthusiastic and self motivated person who is seeking for new knowledge and have more experience. I am a person who have a great interest in the IT industry in Sri Lanka and in a global scale.
 
-I studied at [Ananda College](https://www.facebook.com/anandacollege), for GCE Advanced Level and GCE Ordinary Level Examinations.
+## Experience
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I Workded as a Software Engineer at Paymedia Pvt Ltd.
 
-### Markdown
+## Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am an Undergraduate of [Rajarata university of Sri Lanka](http://www.rjt.ac.lk/) who is with a Bachelor of Science degree focused on Information Technology.
 
-```markdown
-Syntax highlighted code block
+I studied at [Ananda College](https://www.facebook.com/anandacollege) for GCE Advanced Level and GCE Ordinary Level Examinations.
 
-# Header 1
-## Header 2
-### Header 3
+## Projects
 
-- Bulleted
-- List
+Final Year Project
 
-1. Numbered
-2. List
+## Extra Activities
 
-**Bold** and _Italic_ and `Code` text
+I was an active member of Association of Rajarata Information and Communication Technology ([ARICT](https://www.facebook.com/groups/arict)). I also worked as a student volunteer at IEEE Student branch of Rajarata University.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SupunSSW/supunssw.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I have won the Second Runner Up Award in Bitcode v2.0 in 2019 which was organized by [BITSA](#).
