@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Hello! 
 
-You can use the [editor on GitHub](https://github.com/SupunSSW/supunssw.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am an enthusiastic and self motivated person who is seeking for new knowledge and have more experience. I am a person who have a great interest in the IT industry in Sri Lanka and in a global scale.
+
+I studied at [Ananda College](https://www.facebook.com/anandacollege), for GCE Advanced Level and GCE Ordinary Level Examinations.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
