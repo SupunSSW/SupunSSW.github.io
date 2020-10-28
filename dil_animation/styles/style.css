@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    perspective: 1000px;
+}
+
+.container {
+    min-width: 60vw;
+    min-height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    transform-style: preserve-3d;
+    padding: 10% 5%;
+    min-width: 18rem;
+    min-height: 30rem;
+    border-radius: 10px;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.7), 0 0 50px rgba(0, 0, 0, 0.7);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12rem;
+    height: 12rem;
+}
+
+.header img {
+    /* width: 12rem; */
+    height: 12rem;
+    border-radius: 8%;
+    z-index: 2;
+    position: absolute;
+    transition: all 0.5s ease-out;
+}
+
+.body {
+    margin: 10% 0;
+    text-align: center;
+}
+
+.body p {
+    padding: 2rem;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    transition: all 0.5s ease-out;
+}
+
+.circle {
+    width: 12rem;
+    height: 12rem;
+    background: linear-gradient(
+        to right,
+        rgba(245,70,66,0.75),
+        rgba(8,83,156,0.75)
+    );
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.switch button {
+    padding: 5px 100px;
+    border: none;
+    background: rgba(255, 0, 0, 1);
+    color: wheat;
+    font-size: larger;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: all 0.5s ease-out;
+}
+
+.switch button:focus {
+    outline: none;
+}
